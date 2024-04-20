@@ -6,7 +6,7 @@ import { images } from '../../constants';
 import { AppWrap, MotionWrap } from '../../wrapper'
 
 const abouts = [
-  { title:'FrontEnd Development', description:'Proficient with React ', imgUrl:images.frontend },
+  { title:'FrontEnd Development', description:'proficient in HTML, CSS, JavaScript, React.js, and eager to learn Next.js.', imgUrl:images.frontend },
   { title:'Backend Development', description:'I am a good web developer', imgUrl:images.backend },
   { title:'Data Structures & Algorithms', description:'I am a good web developer', imgUrl:images.dsa },
   { title:'Python Programming', description:'I am a good web developer', imgUrl:images.pythonprog }
