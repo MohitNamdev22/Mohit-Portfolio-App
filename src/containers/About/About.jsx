@@ -6,10 +6,10 @@ import { images } from '../../constants';
 import { AppWrap, MotionWrap } from '../../wrapper'
 
 const abouts = [
-  { title:'FrontEnd Development', description:'proficient in HTML, CSS, JavaScript, React.js, and eager to learn Next.js.', imgUrl:images.frontend },
-  { title:'Backend Development', description:'I am a good web developer', imgUrl:images.backend },
-  { title:'Data Structures & Algorithms', description:'I am a good web developer', imgUrl:images.dsa },
-  { title:'Python Programming', description:'I am a good web developer', imgUrl:images.pythonprog }
+  { title:'Frontend Development', description:'Proficient in HTML, CSS, JavaScript, TypeScript, React.js, and eager to learn Next.js.', imgUrl:images.frontend },
+  { title:'Backend Development', description:'Expertise in technologies like Node.js, Express, and MongoDB, for building robust server-side applications effectively.', imgUrl:images.backend },
+  { title:'Data Structures & Algorithms', description:'Ability to write efficient and optimized code for complex problem-solving using C++', imgUrl:images.dsa },
+  { title:'Python Programming', description:'Leverage Python libraries like NumPy, Matplotlib, and Pandas in data-driven projects.', imgUrl:images.pythonprog }
 ];
 
 
