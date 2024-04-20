@@ -6,10 +6,10 @@ import { images } from '../../constants';
 import { AppWrap, MotionWrap } from '../../wrapper'
 
 const abouts = [
-  { title:'Web Development', description:'I am a good web developer', imgUrl:images.about01 },
-  { title:'Python Programmer', description:'I am a good web developer', imgUrl:images.about01 },
-  { title:'Designer', description:'I am a good web developer', imgUrl:images.about01 },
-  { title:'c++ Programmer', description:'I am a good web developer', imgUrl:images.about01 }
+  { title:'FrontEnd Development', description:'Proficient with React ', imgUrl:images.frontend },
+  { title:'Backend Development', description:'I am a good web developer', imgUrl:images.backend },
+  { title:'Data Structures & Algorithms', description:'I am a good web developer', imgUrl:images.dsa },
+  { title:'Python Programming', description:'I am a good web developer', imgUrl:images.pythonprog }
 ];
 
 
