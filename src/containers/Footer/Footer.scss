@@ -7,6 +7,12 @@
       flex-direction: column;
     }
   }
+
+  .main-box{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
   
   .app__footer-cards {
     width: 60%;
