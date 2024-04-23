@@ -14,7 +14,7 @@ const works = [
     imgUrl: images.about01,
     projectLink: 'link_to_project1',
     codeLink: 'link_to_code1',
-    tags: ['UI/UX', 'React JS']
+    tags: ['Frontend', 'Backend']
   },
   { 
     title: 'Project 2', 
@@ -22,7 +22,7 @@ const works = [
     imgUrl: images.about01,
     projectLink: 'www.google.com',
     codeLink: 'link_to_code2',
-    tags: ['Web App', 'React JS']
+    tags: ['ML Project', 'React JS']
   },
   // Add more works as needed
 ];
