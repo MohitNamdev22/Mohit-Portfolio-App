@@ -9,20 +9,60 @@ import { urlFor } from '../../client'; // Remove client import
 // Define a local array for works
 const works = [
   { 
-    title: 'Project 1', 
+    title: 'Medflip', 
     description: 'Description for Project 1', 
-    imgUrl: images.calcmate,
+    imgUrl: images.medflip,
     projectLink: 'link_to_project1',
     codeLink: 'link_to_code1',
-    tags: ['Frontend', 'Backend']
+    tags: ['Frontend', 'Backend', 'Full-Stack']
   },
   { 
-    title: 'Project 2', 
+    title: 'Course Selling App', 
     description: 'Description for Project 2', 
-    imgUrl: images.medflip,
+    imgUrl: images.course,
     projectLink: 'www.google.com',
     codeLink: 'link_to_code2',
-    tags: ['ML Project', 'React JS']
+    tags: ['Frontend', 'Backend', 'Full-Stack']
+  },
+  { 
+    title: 'CalcMate', 
+    description: 'Description for Project 2', 
+    imgUrl: images.calcmate,
+    projectLink: 'www.google.com',
+    codeLink: 'link_to_code2',
+    tags: ['Frontend']
+  },
+  { 
+    title: 'LayerCorp Website', 
+    description: 'Description for Project 2', 
+    imgUrl: images.layercorp,
+    projectLink: 'www.google.com',
+    codeLink: 'link_to_code2',
+    tags: ['Frontend']
+  },
+  { 
+    title: 'My Notes App', 
+    description: 'Description for Project 2', 
+    imgUrl: images.mynotes,
+    projectLink: 'www.google.com',
+    codeLink: 'link_to_code2',
+    tags: ['Frontend']
+  },
+  { 
+    title: 'STIC Website', 
+    description: 'Description for Project 2', 
+    imgUrl: images.STIC,
+    projectLink: 'www.google.com',
+    codeLink: 'link_to_code2',
+    tags: ['Frontend']
+  },
+  { 
+    title: 'Text Analyzer Tool', 
+    description: 'Description for Project 2', 
+    imgUrl: images.textanalyser,
+    projectLink: 'www.google.com',
+    codeLink: 'link_to_code2',
+    tags: ['Frontend']
   },
   // Add more works as needed
 ];
