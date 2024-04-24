@@ -17,6 +17,14 @@ const works = [
     tags: ['Frontend', 'Backend', 'Full-Stack']
   },
   { 
+    title: 'BookStore App', 
+    description: 'Bookstore MERN App', 
+    imgUrl: images.bookstore,
+    projectLink: 'https://github.com/MohitNamdev22/BookStore-MERN',
+    codeLink: 'https://github.com/MohitNamdev22/BookStore-MERN',
+    tags: ['Frontend', 'Backend', 'Full-Stack']
+  },
+  { 
     title: 'Course Selling App', 
     description: 'A basic Full Stack Application', 
     imgUrl: images.course,
