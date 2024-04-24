@@ -10,7 +10,7 @@ import { urlFor } from '../../client'; // Remove client import
 const works = [
   { 
     title: 'Medflip', 
-    description: 'Description for Project 1', 
+    description: 'Medflip is a marketplace to sell your used medicine', 
     imgUrl: images.medflip,
     projectLink: 'https://med-flip.vercel.app/',
     codeLink: 'https://github.com/MohitNamdev22/MedFlip',
@@ -18,7 +18,7 @@ const works = [
   },
   { 
     title: 'Course Selling App', 
-    description: 'Description for Project 2', 
+    description: 'A basic Full Stack Application', 
     imgUrl: images.course,
     projectLink: 'https://github.com/MohitNamdev22/CourseSellingApp',
     codeLink: 'https://github.com/MohitNamdev22/CourseSellingApp',
@@ -26,7 +26,7 @@ const works = [
   },
   { 
     title: 'CalcMate', 
-    description: 'Description for Project 2', 
+    description: 'Open Source Calculator', 
     imgUrl: images.calcmate,
     projectLink: 'https://calcmatecalculator.netlify.app/',
     codeLink: 'https://github.com/MohitNamdev22/CalcMate',
@@ -34,7 +34,7 @@ const works = [
   },
   { 
     title: 'LayerCorp Website', 
-    description: 'Description for Project 2', 
+    description: 'A Website for Marketing Agency', 
     imgUrl: images.layercorp,
     projectLink: 'https://mohitnamdev22.github.io/LayerCorp/',
     codeLink: 'https://github.com/MohitNamdev22/LayerCorp',
@@ -42,29 +42,28 @@ const works = [
   },
   { 
     title: 'My Notes App', 
-    description: 'Description for Project 2', 
+    description: 'It is a Note Taking Application', 
     imgUrl: images.mynotes,
-    projectLink: 'www.google.com',
+    projectLink: 'https://mohitnamdev22.github.io/MyNotes/',
     codeLink: 'https://github.com/MohitNamdev22/MyNotes',
     tags: ['Frontend']
   },
   { 
     title: 'STIC Website', 
-    description: 'Description for Project 2', 
+    description: 'A Website made for Coding Society', 
     imgUrl: images.STIC,
-    projectLink: 'www.google.com',
-    codeLink: 'link_to_code2',
+    projectLink: 'https://sticmedicaps.netlify.app/',
+    codeLink: 'https://github.com/MohitNamdev22/STIC_website',
     tags: ['Frontend']
   },
   { 
     title: 'Text Analyzer Tool', 
-    description: 'Description for Project 2', 
+    description: 'An utility app which performs different operations on Text', 
     imgUrl: images.textanalyser,
-    projectLink: 'www.google.com',
-    codeLink: 'link_to_code2',
+    projectLink: 'https://mohitnamdev22.github.io/Text-Analyzer/',
+    codeLink: 'https://github.com/MohitNamdev22/Text-Analyzer',
     tags: ['Frontend']
   },
-  // Add more works as needed
 ];
 
 const Work = () => {
