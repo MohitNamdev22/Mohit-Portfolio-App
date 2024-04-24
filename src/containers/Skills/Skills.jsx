@@ -18,8 +18,8 @@ const skillsData = [
 ];
 
 const experiencesData = [
-  { year: 'Year 1', works: [{ name: 'Work 1', company: 'Company 1', desc: 'Description 1' }] },
-  { year: 'Year 2', works: [{ name: 'Work 2', company: 'Company 2', desc: 'Description 2' }] },
+  { year: 'Jun 2023 - Aug 2023', works: [{ name: 'Data Science Intern', company: 'Joist.AI', desc: 'Description 1' }] },
+  { year: 'Jan 2022 - Jul 2022', works: [{ name: 'Web Developer', company: 'Beat The Virus Startup', desc: 'Description 2' }] },
   // Add more experiences as needed
 ];
 
