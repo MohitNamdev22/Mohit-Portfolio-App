@@ -9,11 +9,12 @@ import { images } from '../../constants';
 const skillsData = [
   { name: 'React', bgColor: '#ffffff', icon: images.react },
   { name: 'NodeJS', bgColor: '#ffffff', icon: images.node },
-  { name: 'ExpressJS', bgColor: '#ffffff', icon: images.express },
+  { name: 'ExpressJS', bgColor: '#ffffff', icon: images.expressjs },
   { name: 'Mongo DB', bgColor: '#ffffff', icon: images.mongodb },
   { name: 'Typescript', bgColor: '#ffffff', icon: images.tscircle },
   { name: 'Tailwind', bgColor: '#ffffff', icon: images.tailwind },
   { name: 'Python', bgColor: '#ffffff', icon: images.python },
+  { name: 'C++', bgColor: '#ffffff', icon: images.cpp },
 ];
 
 const experiencesData = [

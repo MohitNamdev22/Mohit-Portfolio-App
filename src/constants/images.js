@@ -38,14 +38,20 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
-import bookstore from '../assets/Projects/bookstore.png'
-import calcmate from '../assets/Projects/Calcmate.png'
-import course from '../assets/Projects/course.png'
-import layercorp from '../assets/Projects/layercorp.png'
-import medflip from '../assets/Projects/medflip.jpg'
-import mynotes from '../assets/Projects/mynotes.png'
-import STIC from '../assets/Projects/STIC.png'
-import textanalyser from '../assets/Projects/textanalyser.png'
+import bookstore from '../assets/Projects/bookstore.png';
+import calcmate from '../assets/Projects/Calcmate.png';
+import course from '../assets/Projects/course.png';
+import layercorp from '../assets/Projects/layercorp.png';
+import medflip from '../assets/Projects/medflip.jpg';
+import mynotes from '../assets/Projects/mynotes.png';
+import STIC from '../assets/Projects/STIC.png';
+import textanalyser from '../assets/Projects/textanalyser.png';
+
+import expressjs from '../assets/expressjs.png';
+import mongodb from '../assets/mongodb.png';
+import tscircle from '../assets/typescript-circle.png';
+import tailwind from '../assets/tailwind.png';
+import mysql from '../assets/mysql.png'
 
 export default {
   email,
@@ -92,5 +98,10 @@ export default {
   medflip,
   mynotes,
   STIC,
-  textanalyser
+  textanalyser,
+  expressjs,
+  mongodb,
+  tscircle,
+  tailwind,
+  mysql,
 };
