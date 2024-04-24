@@ -38,6 +38,15 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import bookstore from '../assets/Projects/bookstore.png'
+import calcmate from '../assets/Projects/Calcmate.png'
+import course from '../assets/Projects/course.png'
+import layercorp from '../assets/Projects/layercorp.png'
+import medflip from '../assets/Projects/medflip.jpg'
+import mynotes from '../assets/Projects/mynotes.png'
+import STIC from '../assets/Projects/STIC.png'
+import textanalyser from '../assets/Projects/textanalyser.png'
+
 export default {
   email,
   mobile,
@@ -76,4 +85,12 @@ export default {
   nb,
   skype,
   spotify,
+  bookstore,
+  calcmate,
+  course,
+  layercorp,
+  medflip,
+  mynotes,
+  STIC,
+  textanalyser
 };

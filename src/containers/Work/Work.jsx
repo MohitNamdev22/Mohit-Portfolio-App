@@ -11,7 +11,7 @@ const works = [
   { 
     title: 'Project 1', 
     description: 'Description for Project 1', 
-    imgUrl: images.about01,
+    imgUrl: images.calcmate,
     projectLink: 'link_to_project1',
     codeLink: 'link_to_code1',
     tags: ['Frontend', 'Backend']
@@ -19,7 +19,7 @@ const works = [
   { 
     title: 'Project 2', 
     description: 'Description for Project 2', 
-    imgUrl: images.about01,
+    imgUrl: images.medflip,
     projectLink: 'www.google.com',
     codeLink: 'link_to_code2',
     tags: ['ML Project', 'React JS']
