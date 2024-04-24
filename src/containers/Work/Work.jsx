@@ -12,32 +12,32 @@ const works = [
     title: 'Medflip', 
     description: 'Description for Project 1', 
     imgUrl: images.medflip,
-    projectLink: 'link_to_project1',
-    codeLink: 'link_to_code1',
+    projectLink: 'https://med-flip.vercel.app/',
+    codeLink: 'https://github.com/MohitNamdev22/MedFlip',
     tags: ['Frontend', 'Backend', 'Full-Stack']
   },
   { 
     title: 'Course Selling App', 
     description: 'Description for Project 2', 
     imgUrl: images.course,
-    projectLink: 'www.google.com',
-    codeLink: 'link_to_code2',
+    projectLink: 'https://github.com/MohitNamdev22/CourseSellingApp',
+    codeLink: 'https://github.com/MohitNamdev22/CourseSellingApp',
     tags: ['Frontend', 'Backend', 'Full-Stack']
   },
   { 
     title: 'CalcMate', 
     description: 'Description for Project 2', 
     imgUrl: images.calcmate,
-    projectLink: 'www.google.com',
-    codeLink: 'link_to_code2',
+    projectLink: 'https://calcmatecalculator.netlify.app/',
+    codeLink: 'https://github.com/MohitNamdev22/CalcMate',
     tags: ['Frontend']
   },
   { 
     title: 'LayerCorp Website', 
     description: 'Description for Project 2', 
     imgUrl: images.layercorp,
-    projectLink: 'www.google.com',
-    codeLink: 'link_to_code2',
+    projectLink: 'https://mohitnamdev22.github.io/LayerCorp/',
+    codeLink: 'https://github.com/MohitNamdev22/LayerCorp',
     tags: ['Frontend']
   },
   { 
