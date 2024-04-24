@@ -45,7 +45,7 @@ const works = [
     description: 'Description for Project 2', 
     imgUrl: images.mynotes,
     projectLink: 'www.google.com',
-    codeLink: 'link_to_code2',
+    codeLink: 'https://github.com/MohitNamdev22/MyNotes',
     tags: ['Frontend']
   },
   { 
