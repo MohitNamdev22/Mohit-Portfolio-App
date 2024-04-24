@@ -7,9 +7,13 @@ import { images } from '../../constants';
 
 // Define your skills and experiences data as arrays
 const skillsData = [
-  { name: 'Skill 1', bgColor: '#ffffff', icon: images.react },
-  { name: 'Skill 2', bgColor: '#ffffff', icon: 'path_to_icon2' },
-  // Add more skills as needed
+  { name: 'React', bgColor: '#ffffff', icon: images.react },
+  { name: 'NodeJS', bgColor: '#ffffff', icon: images.node },
+  { name: 'ExpressJS', bgColor: '#ffffff', icon: images.express },
+  { name: 'Mongo DB', bgColor: '#ffffff', icon: images.mongodb },
+  { name: 'Typescript', bgColor: '#ffffff', icon: images.tscircle },
+  { name: 'Tailwind', bgColor: '#ffffff', icon: images.tailwind },
+  { name: 'Python', bgColor: '#ffffff', icon: images.python },
 ];
 
 const experiencesData = [
