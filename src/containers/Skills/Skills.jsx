@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import './Skills.scss';
 import { motion } from 'framer-motion';
-import { Tooltip } from 'react-tooltip'; // Import the correct named export
+import { Tooltip } from 'react-tooltip';
 import { AppWrap, MotionWrap } from '../../wrapper';
 import { images } from '../../constants';
 
-// Define your skills and experiences data as arrays
 const skillsData = [
   { name: 'React', bgColor: '#ffffff', icon: images.react },
   { name: 'NodeJS', bgColor: '#ffffff', icon: images.node },
@@ -20,7 +19,6 @@ const skillsData = [
 const experiencesData = [
   { year: 'Jun 2023 - Aug 2023', works: [{ name: 'Data Science Intern', company: 'Joist.AI', desc: 'Description 1' }] },
   { year: 'Jan 2022 - Jul 2022', works: [{ name: 'Web Developer', company: 'Beat The Virus Startup', desc: 'Description 2' }] },
-  // Add more experiences as needed
 ];
 
 const Skills = () => {
@@ -28,7 +26,6 @@ const Skills = () => {
   const [skills, setSkills] = useState(skillsData);
 
   useEffect(() => {
-    // No need to fetch data from the client since we're using local data
   }, []);
 
   return (

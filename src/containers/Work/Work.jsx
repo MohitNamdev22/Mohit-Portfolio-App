@@ -4,9 +4,8 @@ import { AiFillEye, AiFillGithub } from 'react-icons/ai';
 import { motion } from 'framer-motion';
 import { AppWrap, MotionWrap } from '../../wrapper';
 import { images } from '../../constants';
-import { urlFor } from '../../client'; // Remove client import
+import { urlFor } from '../../client';
 
-// Define a local array for works
 const works = [
   { 
     title: 'Medflip', 
@@ -80,7 +79,6 @@ const Work = () => {
   const [filterWork, setFilterWork] = useState([]);
 
   useEffect(() => {
-    // Set initial filtered works to all works
     setFilterWork(works);
   }, []);
 
