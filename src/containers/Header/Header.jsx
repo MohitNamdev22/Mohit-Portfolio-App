@@ -40,6 +40,7 @@ const Header = () => {
           <div className="tag-cmp app__flex">
           <p className="p-text" style={{cursor:'pointer', textDecoration:'none'}}><a href="https://drive.google.com/file/d/1AvYYobLflIWH_cGEw7epewGRbIZN4Cef/view?usp=drive_link" target="_blank" >My Resume</a></p>
           </div>
+          
         </div>
       </motion.div>
       <motion.div
