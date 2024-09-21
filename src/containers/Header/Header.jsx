@@ -38,7 +38,7 @@ const Header = () => {
             <p className="p-text">Freelancer</p>
           </div>
           <div className="tag-cmp app__flex">
-          <p className="p-text" style={{cursor:'pointer'}}><a href="https://drive.google.com/file/d/1AXOh_LOC6FZz_QK-5V2q7hj8LaqpQ6B1/view?usp=sharing" target="_blank" >My Resume</a></p>
+          <p className="p-text" style={{cursor:'pointer', textDecoration:'none'}}><a href="https://drive.google.com/file/d/1AvYYobLflIWH_cGEw7epewGRbIZN4Cef/view?usp=drive_link" target="_blank" >My Resume</a></p>
           </div>
         </div>
       </motion.div>
